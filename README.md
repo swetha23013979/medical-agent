@@ -331,6 +331,9 @@ if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
 ```
+## Output:
+![3828e706-7e59-467f-9e6a-6e87a2232b81](https://github.com/user-attachments/assets/492f8336-8a0e-42d0-b02d-3e40132a2b0f)
+
 ## RESULT:
 Thus we have created a agentic ai research using react and executed successfully..
 
